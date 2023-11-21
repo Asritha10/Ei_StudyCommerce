@@ -22,7 +22,7 @@ Back End: Node.js server handling data and interactions.
 Payment Processing: Integration with Stripe API for secure payments.
 
 How to Run
-Clone the repository: git clone https://github.com/yourusername/your-repo.git
+Clone the repository: git clone https://github.com/Asritha10/Ei_StudyCommerce
 
 Navigate to the project folder: cd your-repo
 
